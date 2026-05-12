@@ -8,10 +8,10 @@
 
 | Field              | Detail                                |
 | ------------------ | ------------------------------------- |
-| **Nama Produk**    | FinTrack                              |
+| **Nama Produk**    | Expense Tracker                       |
 | **Versi**          | 1.0.0                                 |
-| **Tanggal Dibuat** | 2025                                  |
-| **Author**         | [Nama Kamu]                           |
+| **Tanggal Dibuat** | 2026                                  |
+| **Author**         | [Rizky Wahyudi]                       |
 | **Status**         | Draft                                 |
 | **Platform**       | Web App (Desktop & Mobile Responsive) |
 
