@@ -22,4 +22,3 @@ Beriktu Tech Stack dan Service yang saya gunakan untuk membangun aplikasi ini :
 | Version Control | Git & Github |
 | Local Server | XAMPP |
 | Deployment | --- |
-| ---------------------- | ---------------------------------- |
