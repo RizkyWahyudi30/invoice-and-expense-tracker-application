@@ -7,3 +7,19 @@ ExpenseTracker adalaha aplikasi manajemen keuangan bisnis yang dirancang khusus 
 - Mencatat dan mengkategorikan pengeluaran bisnis
 - Melihat laporan keuangan bulanan yang diringkas
 - Mendownload invoice dalam format PDF
+
+## Tech Stack
+
+Beriktu Tech Stack dan Service yang saya gunakan untuk membangun aplikasi ini :
+| Category | Technology |
+| ---------------------- | ---------------------------------- |
+| Framework | Laravel 13 |
+| Frontend | Blade + Tailwindcss |
+| Styling | Ktui |
+| Database | MySQL |
+| Database Management | phpMyAdmin |
+| Authentication | Laravel Sanctum + Laravel Breeze |
+| Version Control | Git & Github |
+| Local Server | XAMPP |
+| Deployment | --- |
+| ---------------------- | ---------------------------------- |
